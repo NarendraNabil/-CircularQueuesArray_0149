@@ -160,3 +160,11 @@ int main ()
                 break;
             }
             }
+        
+        }
+    catch (exception &e)
+    {
+        cout << "Check for the vlaues entered." << endl;
+    }
+    }
+}
